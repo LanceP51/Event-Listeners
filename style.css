@@ -1,0 +1,32 @@
+.red-text{
+    color: red
+}
+
+.mirrorArticles{
+    display: flex;
+    flex-direction: row;
+}
+#articleOne{
+    border: 2px solid red;
+    width: 50vw;
+}
+#articleTwo{
+    border: 2px solid black;
+    width: 50vw;
+}
+
+.disabled {
+    background-color: gray;
+}
+
+.enabled {
+    background-color: fuchsia;
+    color: goldenrod;
+}
+.allPowersEnabled{
+    background-color: fuchsia;
+    color: goldenrod;
+}
+.allPowersDisabled{
+    background-color: gray;
+}
